@@ -1,5 +1,8 @@
 {
   "dependencies": {
-    "package.json": "^2.0.1"
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "package.json": "^2.0.1",
+    "sanitize-html": "^2.7.2"
   }
 }
